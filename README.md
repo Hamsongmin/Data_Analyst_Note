@@ -92,3 +92,9 @@
   
 ## 막대그래프(Bar plot)
 - 각 범주(category)의 수치 값을 비교할때 적합하다.
+-  Multiple Bar Plot의 경우는 카테고리 그룹별로 값를 비교할 때 사용한다.
+-  Stacked Bar Plot은 여러개의 그룹의 값을 쌓아서 표현한다.
+-  Overlapped Bar Plot은 쌓아서 비교하기 어려울 때 겹쳐서 표현하는 방법이다.
+-  Grouped Bar Plot은 그룹별 카테고리 bar를 모아서 배치하는 방법이다.
+  - 가장보기에 편하다
+
