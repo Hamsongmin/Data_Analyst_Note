@@ -96,5 +96,3 @@
 -  Stacked Bar Plot은 여러개의 그룹의 값을 쌓아서 표현한다.
 -  Overlapped Bar Plot은 쌓아서 비교하기 어려울 때 겹쳐서 표현하는 방법이다.
 -  Grouped Bar Plot은 그룹별 카테고리 bar를 모아서 배치하는 방법이다.
-  - 가장보기에 편하다
-
